@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OK to Wake Clock</string>
+    <string name="settings">Settings</string>
+    <string name="wake_time">Wake time (e.g. 07:00)</string>
+    <string name="wake_alarm_duration">Wake alarm duration (minutes)</string>
+    <string name="brightness_clock">Clock screen brightness</string>
+    <string name="brightness_wake">Wake / pre-wake screen brightness</string>
+    <string name="pre_wake_duration">Pre-wake duration (minutes, 0 = off)</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="test_wake">Test wake</string>
+    <string name="test_pre_wake">Test pre-wake</string>
+    <string name="show_test_buttons">Show test buttons on clock screen</string>
+    <string name="lock_on_leave">Lock screen when leaving app</string>
+    <string name="use_lock_on_leave">Lock screen when I leave the app</string>
+    <string name="lock_on_leave_summary">Requires enabling device administrator for this app. When enabled, the device will lock whenever you leave the clock screen (e.g. press Home).</string>
+    <string name="device_admin_enabled">Lock on leave enabled</string>
+    <string name="device_admin_disabled">Lock on leave disabled</string>
+    <string name="enable_device_admin">Enable</string>
+</resources>
