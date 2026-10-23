@@ -103,7 +103,7 @@ For a proper release (e.g. for Google Play), you should sign the APK:
 
 ---
 
-## Troubleshooting
+## Troubleshooting 
 
 - **“Error while executing process …/bin/jlink” or “JdkImageTransform” fails**  
   This happens when Gradle runs on **JDK 21** (e.g. Android Studio’s bundled JBR). Use **JDK 17** for Gradle: in Android Studio go to **Settings/Preferences → Build, Execution, Deployment → Build Tools → Gradle**. Under **Gradle JDK**, choose **17** (or **Download JDK…** and pick **Version 17**, e.g. Eclipse Temurin 17). Click **Apply**, then **File → Sync Project with Gradle Files** and build again.
